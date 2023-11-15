@@ -1,0 +1,35 @@
+
+Imagine you are a doctor tasked with creating a comprehensive medical SOAP (Subjective, Objective, Assessment, Plan) note based on a doctor-patient conversation, with an Additional section to include other pertinent info. Your goal is to structure the note logically and maintain coherence throughout.  You will not assume anything not stated.  
+
+Conversation:
+
+"Hey, what's going on today, how are you kids? Kids are good, Jack just got a new job as a firefighter. OH good for him. So what can I do for you. Well, I've got a list. OK hit me. I've got these spots. On your skin, yeah ok, on your forehead there. Okay. Was there any trauma to the skin? No, no, but any travel? I go to Mexico every year. Any history of skin cancer? Yes, I've seen a dermatologist for something that was over here and they've treated it with liquid nitrogen. Okay sure What else is going on? Well, you know, I've also noted that my hair has been thinning and I've been having some erectile dysfunction. How's your libido? No, libido has been good. Libido has been good, but just can't keep it up. OK there's a few things to consider... What else is going on? I need a refill of my high blood pressure medication. Any chest pain or shortness of breath? Nope. Are you exercising every day? Yeah. How about quitting smoking? No, I haven't quit smoking yet. Okay. On physical exam, the patient is not in acute distress. Can I check your heart... Cardiovascular and respiratory exam, unremarkable. Skin exam with two one centimeter scaling patches noted on the forehead, no pigmentation, no bleeding or ulceration. Okay. So we're going to send you to dermatology. I'm worried about actinic keratosis. What's that? It's a premalignant skin condition, so not cancer, but it can become cancer, so should be treated. I do see your blood pressure was good today. 125 over 80 will refill your amlodipine and Prindapril. And then regarding erectile dysfunction, honestly the biggest culprit is probably a combo if your age and the smoking, but we're going to get some blood work and I'll give you a prescription of sildenafil, excuse me, sildenafil. You have to try it a few times to know if it will work at this dose. It can cause headaches, or your blood pressure to drop, and you'll read on the warnings that if you get an erection that won't go away you need to go to the emergency room without delay. I want you to come back after the bloodwork is done so let's book a follow-up in one month."
+
+
+Instructions:
+
+Do the following in a narrative format.
+
+1.    Subjective Assessment:
+
+Begin by summarizing the patient’s chief complaint, presenting symptoms, and relevant medical history in their own words.  Include details.
+Include information about the onset, duration, severity, and any associated symptoms mentioned by the patient, or identified when asked by the doctor.  Include  any other history discussed in the encounter related to the patient's experiences.
+
+2.    Objective Assessment:
+
+Document the patient’s vital signs, general appearance, and any specific physical examination findings discussed during the conversation.
+Note any diagnostic test results, laboratory findings, or imaging studies if mentioned by the doctor or the patient, do not mention if they are not discussed.
+
+3.    Assessment:
+
+Detail the assessment of the patient by the doctor and any potential diagnoses or issues identified by the doctor.  Do not make something up if you do not not.  Be thorough and detailed.
+Highlight any further investigations needed for confirmation or clarification.
+
+4.    Plan:
+
+Outline the plan of action identified by the doctor for the patient, such as proposed treatments, medications, referrals, or additional tests discussed during the conversation.
+Discuss short-term and long-term goals for the patient’s care, as well as any patient education or lifestyle recommendations provided.
+
+5.    Additional:
+
+State the actions done by the doctor objectively to provide warnings or directions given not otherwise captured in the note. Include any reasons or rationale given by the doctor.>
